@@ -6,6 +6,10 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "engines": {
+    "node": "6.2.x",
+    "npm": "3.10.x"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/akash268/mean-pluralsight.git"
@@ -22,7 +26,11 @@
   },
   "homepage": "https://github.com/akash268/mean-pluralsight#readme",
   "dependencies": {
+    "body-parser": "^1.15.2",
     "express": "^4.14.0",
-    "jade": "^1.11.0"
+    "jade": "^1.11.0",
+    "mongoose": "^4.5.3",
+    "morgan": "^1.7.0",
+    "stylus": "^0.54.5"
   }
 }
