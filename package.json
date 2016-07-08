@@ -1,0 +1,28 @@
+{
+  "name": "mean-pluralsight",
+  "version": "1.0.0",
+  "description": "Mean demo from Pluralsight 'Building Angular and Node.js Apps with the MEAN Stack' course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akash268/mean-pluralsight.git"
+  },
+  "keywords": [
+    "mean",
+    "angular2",
+    "pluralsight"
+  ],
+  "author": "Akash Malik",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/akash268/mean-pluralsight/issues"
+  },
+  "homepage": "https://github.com/akash268/mean-pluralsight#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "jade": "^1.11.0"
+  }
+}

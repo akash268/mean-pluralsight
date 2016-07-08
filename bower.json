@@ -1,0 +1,31 @@
+{
+  "name": "MultiVision",
+  "description": "Mean demo from Pluralsight 'Building Angular and Node.js Apps with the MEAN Stack' course",
+  "main": "index.html",
+  "authors": [
+    "Akash Malik"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "mean",
+    "angular2",
+    "pluralsight"
+  ],
+  "homepage": "https://github.com/akash268/mean-pluralsight",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/vendor",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.1.0",
+    "toastr": "^2.1.2",
+    "angular": "^1.5.7",
+    "angular-resource": "^1.5.7",
+    "angular-route": "^1.5.7"
+  }
+}
