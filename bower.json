@@ -1,5 +1,5 @@
 {
-  "name": "MultiVision",
+  "name": "multi-vision",
   "description": "Mean demo from Pluralsight 'Building Angular and Node.js Apps with the MEAN Stack' course",
   "main": "index.html",
   "authors": [
